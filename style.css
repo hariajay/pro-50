@@ -1,0 +1,37 @@
+.grid1{
+  margin-top:10px;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:space-evenly;
+}
+.grid2{
+  margin-top:30px;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:space-evenly;
+ }
+.ori{
+  width:350px;
+  border-radius:20px;
+  background-color:white;
+  outline-color: greenyellow;
+}
+.ori img{
+  margin-left:95px;
+  margin-top:15px;
+ }
+.it{
+  text-align:center;
+  color:maroon
+}
+.ori li{
+  font-family:Comic Sans Ms;
+}
+img{
+  margin-top:10px;
+}
+a{
+  font-size:20px;
+}
